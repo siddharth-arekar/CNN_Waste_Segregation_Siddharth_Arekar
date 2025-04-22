@@ -1,0 +1,2 @@
+# CNN_Waste_Segregation_Siddharth_Arekar
+CNN_Waste_Segregation_Siddharth_Arekar
